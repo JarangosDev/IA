@@ -1,0 +1,3 @@
+El parcial va a evaluar lo que vimos en el primer taller, el segundo sería hasta propagación hacía atrás. 
+
+Es escrito y puede tener preguntas teoricas y/o partes de código que se debe analizar. Como poner una hacía adelante y de acuerdo a eso, cuantas capas tiene.
